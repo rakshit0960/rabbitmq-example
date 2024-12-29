@@ -1,0 +1,12 @@
+{
+  "name": "rabbitmq-example",
+  "version": "1.0.0",
+  "scripts": {
+    "producer": "npm --prefix publisher run start",
+    "consumer": "npm --prefix consumer run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
